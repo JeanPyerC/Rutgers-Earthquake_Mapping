@@ -1,1 +1,3 @@
-# Rutgers-Earthquake_Mapping
+# Rutgers - Earthquake Mapping
+
+&nbsp;&nbsp;&nbsp;&nbsp; The 
